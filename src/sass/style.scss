@@ -1,0 +1,35 @@
+// Файл обнуляющих стилей
+@import "styles/_nullstyle.scss";
+// Файл обнуляющих стилей
+
+// миксины
+@import "styles/mixins.scss";
+// миксины
+
+
+//fonts
+
+
+//fonts
+
+//переменные
+
+//переменные
+
+//Шрифт по умолчанию
+*{
+	font-family: Roboto;
+}
+//Шрифт по умолчанию
+
+//переменные
+
+//переменные
+
+//стили
+@import "styles/_header.scss";
+@import "styles/_main.scss";
+@import "styles/_footer.scss";
+//стили
+
+
